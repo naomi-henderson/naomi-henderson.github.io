@@ -7,8 +7,10 @@ description: a way to share my current projects
 
 ## Pangeo CMIP6 Google Cloud Repository/Catalog
 
-- Go to the [Pangeo Jupyter Hub](https://ocean.pangeo.io) and log in with GLOBUS (Pick Columbia University) or sign in with your ORCID (go [here](https://orcid.org/register) to register)
+- Go to the [Pangeo Jupyter Hub](https://ocean.pangeo.io) and log in with GLOBUS (Easiest is to use Insitution =  Columbia University)
 ![Globus](assets/Globus.png)
+
+ or at the bottom right, you can also sign in with your ORCID (go [here](https://orcid.org/register) to register)
 
 - Choose one of the sizes (doesn't really matter which)
 ![Spawner Choices](assets/SpawnerOptions.png)
