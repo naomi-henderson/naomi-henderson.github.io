@@ -5,19 +5,19 @@ tagline: useful tidbits
 description: a way to share my current projects
 ---
 
-*Coming Soon:* 
+### *Coming Soon:* 
 --------------
 - I am combing through the CMIP6 Hackathon notebooks and we will get together around the middle of November to discuss
 
 
-*2019.11.04* -  Quick Intro to the Pangeo CMIP6 Google Cloud Repository
+### *2019.11.04* -  Quick Intro to the Pangeo CMIP6 Google Cloud Repository
 --------------
 - Half hour meetings in Oceanography 104 or 105
 - I will be leading 3 sessions with identical goals - come to whichever one is convenient
 - Here are some [more details](https://naomi-henderson.github.io/pages/sessions.html)
 
 
-*2019.11.01* -  Pangeo CMIP6 Google Cloud Repository (zarr)
+### *2019.11.01* -  Pangeo CMIP6 Google Cloud Repository (zarr)
 --------------
 
 #### Many thanks to Ryan Abernathey and the Pangeo Group for making this possible! 
@@ -25,7 +25,7 @@ description: a way to share my current projects
 - [Here](pages/tutorial1.html) is a quick tutorial for getting started
 
 
-*2019.10.18* - Hackathon Pages
+### *2019.10.18* - Hackathon Pages
 --------------
 - [Hackathon Projects](https://discourse.pangeo.io/c/cmip6hack/cmip6hack-projects)
 - [Pangeo Gitter](https://gitter.im/pangeo-data/data)
