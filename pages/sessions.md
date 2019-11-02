@@ -9,11 +9,11 @@ description: Brief meetings at Lamont to get you started with various chores
 
 **LDEO**, *November 2019*
 
-	 **Session 1:** Wednesday, November 6, 10-10:30 AM (location: Ocean 105 or 104)
+	 **Session 1a:** Wednesday, November 6, 10-10:30 AM (location: Ocean 105 or 104)
 
-	 **Session 2:** Thursday, November 7, 10-10:30 AM (location: Ocean 105 or 104)
+	 **Session 1b:** Thursday, November 7, 10-10:30 AM (location: Ocean 105 or 104)
 
-	 **Session 3:** Wednesday, November 13, 1:30-2:00 PM (location: Ocean 105 or 104)
+	 **Session 1c:** Wednesday, November 13, 1:30-2:00 PM (location: Ocean 105 or 104)
 
  
 **NOTES**
