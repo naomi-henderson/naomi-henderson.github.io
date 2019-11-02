@@ -18,7 +18,7 @@ description: a way to share my current projects
 ### *2019.11.01* -  Pangeo CMIP6 Google Cloud Repository (zarr)
 
 #### Many thanks to Ryan Abernathey and the Pangeo Group for making this possible! 
-	- The data collection is growing rapidly - thanks to Richard Seager for providing the local machinery - and to his indulgence for letting me work off-topic to get the data in the cloud
+	- The data collection is growing rapidly - thanks to Richard Seager for providing the local machinery
 	- [Here](pages/tutorial1.html) is a quick tutorial for getting started
 
 
@@ -39,3 +39,27 @@ description: a way to share my current projects
 	- We continue to develop more catalog/data access methods - `ingrid` and `python` are both supported and the hyrax `opendap` server allows us to pull the netcdf files into `matlab`, etc.  
 	- The mary and june homepages give many hints on how to access the data. Send a quick email to Haibo or me if you need the URL of their homepages.
 
+
+Download
+--------
+
+[Markdown 1.0.1][dl] (18 KB) -- 17 Dec 2004
+
+[dl]: http://daringfireball.net/projects/downloads/Markdown_1.0.1.zip
+
+
+Introduction
+------------
+
+Markdown is a text-to-HTML conversion tool for web writers. Markdown
+allows you to write using an easy-to-read, easy-to-write plain text
+format, then convert it to structurally valid XHTML (or HTML).
+
+Thus, "Markdown" is two things: (1) a plain text formatting syntax;
+and (2) a software tool, written in Perl, that converts the plain text
+formatting to HTML. See the [Syntax][] page for details pertaining to
+Markdown's formatting syntax. You can try it out, right now, using the
+online [Dingus][].
+
+  [syntax]: /projects/markdown/syntax
+  [dingus]: /projects/markdown/dingus
