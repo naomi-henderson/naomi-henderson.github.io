@@ -22,5 +22,5 @@ description: Brief meetings at Lamont to get you started with various chores
 - Bring your laptop or just come and watch
 - All are invited
 
-- If you don't have time for any of this, check out [my blog](https://naomi-henderson.github.io) - there is enough information there to get you started
+- If you don't have time for any of this, check out [blog: 2019.11.01](https://naomi-henderson.github.io) - there is enough information there to get you started
 

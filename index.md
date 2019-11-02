@@ -8,31 +8,14 @@ description: a way to share my current projects
 ### *Coming Soon:* 
 - I am combing through the CMIP6 Hackathon notebooks and we will get together around the middle of November to discuss
 
-### *2019.11.04* -  Announcing a Quick Intro to the Pangeo CMIP6 Google Cloud Repository. [More info](https://naomi-henderson.github.io/pages/sessions.html)
-
-
+### *2019.11.04* -  Quick Intro to the Pangeo CMIP6 Google Cloud Repository. [More info](https://naomi-henderson.github.io/pages/sessions.html)
 
 ### *2019.11.01* -  Pangeo CMIP6 Google Cloud Repository (zarr)
 
-- Go to the [Pangeo Jupyter Hub](https://ocean.pangeo.io) and "Sign in with GLOBUS"
+#### Many thanks to Ryan Abernathey and the Pangeo Group for making this possible! 
 
-Once you click on this button, you can either log in with your Columbia UNI (this is easiest) but you can also sign in with your [ORCID](https://orcid.org/register), see the lower right hand side of the screen.
-
-- Now you will need to choose one of the sizes (doesn't really matter which)
-![Spawner Choices](assets/SpawnerOptions.png)
-
-- This is JupyterHub - there is only one kernel - `Python 3`, but you can `conda/pip install` other packages. The tutorials do not require any other packages.
-
-- Next you can download some short tutorials, using either the notebook (put ! at the beginning of the line) or a terminal:
-
-``` 
-wget http://haden.ldeo.columbia.edu/notebooks/tutorial-Intake.ipynb
-wget http://haden.ldeo.columbia.edu/notebooks/tutorial-noIntake.ipynb
-```
-
-- Start working through either tutorial.
-
-- When you are finished, go to >File >Hub Control Panel >Stop My Server >Logout (upper righthand corner)
+- The data collection is growing rapidly - thanks to Richard Seager for the local machinery that makes this possible - and to his indulgence for letting me work off-topic to get the data in the cloud
+- [Here](pages/tutorial1.html) is a quick tutorial for getting started
 
 ### *2019.10.18* - Hackathon Pages
 
