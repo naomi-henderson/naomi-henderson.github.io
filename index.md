@@ -13,9 +13,12 @@ description: a way to share my current projects
 - Choose one of the sizes (doesn't really matter which)
 ![Spawner Choices](assets/SpawnerOptions.png)
 
-- Either in a notebook or terminal 
-    - wget http://haden.ldeo.columbia.edu/notebooks/tutorial-Intake.ipynb
-    - wget http://haden.ldeo.columbia.edu/notebooks/tutorial-noIntake.ipynb
+- Download some short tutorials either in a notebook or terminal:
+
+``` 
+wget http://haden.ldeo.columbia.edu/notebooks/tutorial-Intake.ipynb
+wget http://haden.ldeo.columbia.edu/notebooks/tutorial-noIntake.ipynb
+```
 
 - Start working through either tutorial.
 
