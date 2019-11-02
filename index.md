@@ -10,7 +10,7 @@ description: a way to share my current projects
 
 
 --------------
-### *2019.11.04* -  Work Session 1: Quick Intro to the Pangeo CMIP6 Google Cloud Repository
+### Work Session 1: Quick Intro to the Pangeo CMIP6 Google Cloud Repository
 - Half hour meetings in Oceanography 104 or 105
 - I will be leading 3 sessions with identical goals - come to whichever one is convenient
 - Here are some [more details](https://naomi-henderson.github.io/pages/sessions.html)
