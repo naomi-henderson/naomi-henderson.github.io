@@ -12,10 +12,12 @@ description: a way to share my current projects
 
 Once you click on this button, you can either log in with your Columbia UNI (this is easiest) but you can also sign in with your [ORCID](https://orcid.org/register), see the lower right hand side of the screen.
 
-- Choose one of the sizes (doesn't really matter which)
+- Now you will need to choose one of the sizes (doesn't really matter which)
 ![Spawner Choices](assets/SpawnerOptions.png)
 
-- Download some short tutorials either in a notebook or terminal:
+- This is JupyterHub - there is only one kernel - `Python 3`, but you can `conda/pip install` other packages. The tutorials do not require any other packages.
+
+- Next you can download some short tutorials, using either the notebook (put ! at the beginning of the line) or a terminal:
 
 ``` 
 wget http://haden.ldeo.columbia.edu/notebooks/tutorial-Intake.ipynb
