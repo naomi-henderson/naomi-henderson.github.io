@@ -12,7 +12,7 @@ description:
 Once you click on this button, you can either log in with your Columbia UNI (this is easiest) but you can also sign in with your [ORCID](https://orcid.org/register), see the lower right hand side of the screen.
 
 - Now you will need to choose one of the sizes (doesn't really matter which)
-![Spawner Choices](assets/SpawnerOptions.png)
+![Spawner Choices](../assets/SpawnerOptions.png)
 
 - This is JupyterHub - there is only one kernel - `Python 3`, but you can `conda/pip install` other packages. The tutorials do not require any other packages.
 
