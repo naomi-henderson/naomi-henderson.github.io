@@ -7,28 +7,28 @@ description:
 
 ### Quick tutorial for using the Pangeo CMIP6 Repo directly on JupyterHub running in Google Cloud
 
-- 1. Go to the [Pangeo Jupyter Hub](https://ocean.pangeo.io) and "Sign in with GLOBUS"
+1. Go to the [Pangeo Jupyter Hub](https://ocean.pangeo.io) and "Sign in with GLOBUS"
 
 Once you click on this button, you can either log in with your Columbia UNI (this is easiest) but you can also sign in with your [ORCID](https://orcid.org/register), see the lower right hand side of the screen.
 
 -------------
-- 2. Now you will need to choose one of the sizes (doesn't really matter which)
+1. Now you will need to choose one of the sizes (doesn't really matter which)
 ![Spawner Choices](../assets/SpawnerOptions.png)
 
 -------------
-- 3. This is JupyterHub - there is only one kernel - `Python 3`, but you can `conda/pip install` other packages. The tutorials do not require any other packages.
+1. This is JupyterHub - there is only one kernel - `Python 3`, but you can `conda/pip install` other packages. The tutorials do not require any other packages.
 
 -------------
-- 4. Next you can download some short tutorials, using either the notebook (put ! at the beginning of the line) or a terminal:
+1. Next you can download some short tutorials, using either the notebook (put ! at the beginning of the line) or a terminal:
 
 ```
 wget http://haden.ldeo.columbia.edu/notebooks/tutorial-Intake.ipynb
 wget http://haden.ldeo.columbia.edu/notebooks/tutorial-noIntake.ipynb
 ```
 -------------
-- 5. Start working through either tutorial.
+1. Start working through either tutorial.
 
 -------------
-- 6. **IMPORTANT** When you are finished, go to >File >Hub Control Panel >Stop My Server >Logout (upper righthand corner)
+1. **IMPORTANT** When you are finished, go to >File >Hub Control Panel >Stop My Server >Logout (upper righthand corner)
 
 
