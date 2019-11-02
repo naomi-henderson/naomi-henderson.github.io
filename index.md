@@ -7,7 +7,8 @@ description: a way to share my current projects
 
 ### *2019.11.04* -  Announcing a Quick Intro to the Pangeo CMIP6 Google Cloud Repository. [More info](https://naomi-henderson.github.io/pages/sessions.html)
 
-### *2019.11.01* -  Pangeo CMIP6 Google Cloud Repository (`zarr` format)
+### *2019.11.01* -  Pangeo CMIP6 Google Cloud Repository 
+#####`zarr` format
 
 - Go to the [Pangeo Jupyter Hub](https://ocean.pangeo.io) and "Sign in with GLOBUS"
 
@@ -40,7 +41,8 @@ wget http://haden.ldeo.columbia.edu/notebooks/tutorial-noIntake.ipynb
 
 - [Make Request Here](https://docs.google.com/forms/d/e/1FAIpQLScFjA5IddqBs2Rc0xGbzn32NPq12TKr-b-8KGtXWyNDK5sJCg/viewform)
 
-### *2019.09.01* -  OCP CMIP6 Repository (`netcdf` format)
+### *2019.09.01* -  OCP CMIP6 Repository 
+#####`netcdf` format
 
 - Haibo Liu continues to collect CMIP6 data for our OCP projects on the machines mary (for 'Amon') and june (for '6hrLev' and '3hr')
 - Whatever he collects, the division is free to use on the guest Jupyter notebook on mary (https://mary.ldeo.columbia.edu:8000). Login as guest and then ask Haibo for the password if you have forgotten it. Those working with Haibo directly will have their own accounts on mary and june.
