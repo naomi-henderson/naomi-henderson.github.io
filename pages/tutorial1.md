@@ -29,6 +29,6 @@ wget http://haden.ldeo.columbia.edu/notebooks/tutorial-noIntake.ipynb
 5. Start working through either tutorial.
 
 -------------
-6. **IMPORTANT** When you are finished, go to >File >Hub Control Panel >Stop My Server >Logout (upper righthand corner)
+6. **IMPORTANT:** When you are finished, go to >File >Hub Control Panel >Stop My Server >Logout (upper righthand corner)
 
 
