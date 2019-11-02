@@ -5,7 +5,16 @@ tagline: useful tidbits
 description: a way to share my current projects
 ---
 
-### *2019.11.01* -  Pangeo CMIP6 Google Cloud Repository
+### *2019.11.13* -  Quick Preview of CMIP6 GCS (Google Cloud Store) access methods 
+- Session 3 Wednesday, November 13, 1:30-2:00 PM (location: Ocean 105 or 104)
+
+### *2019.11.07* -  Quick Preview of CMIP6 GCS (Google Cloud Store) access methods 
+- Session 2 Thursday, November 7, 10-10:30 AM (location: Ocean 105 or 104)
+
+### *2019.11.06* -  Quick Preview of CMIP6 GCS (Google Cloud Store) access methods 
+- Session 1 Wednesday, November 6, 10-10:30 AM (location: Ocean 105 or 104)
+
+### *2019.11.01* -  Pangeo CMIP6 Google Cloud Repository (`zarr` format)
 
 - Go to the [Pangeo Jupyter Hub](https://ocean.pangeo.io) and "Sign in with GLOBUS"
 
@@ -37,3 +46,11 @@ wget http://haden.ldeo.columbia.edu/notebooks/tutorial-noIntake.ipynb
 ### *2019.09.28* - CMIP6 Cloud Data Request for Hackathon
 
 - [Make Request Here](https://docs.google.com/forms/d/e/1FAIpQLScFjA5IddqBs2Rc0xGbzn32NPq12TKr-b-8KGtXWyNDK5sJCg/viewform)
+
+### *2019.09.01* -  OCP CMIP6 Repository (`netcdf` format)
+
+- Haibo Liu continues to collect CMIP6 data for our OCP projects on the machines mary (for 'Amon') and june (for '6hrLev' and '3hr')
+- Whatever he collects, the division is free to use on the guest Jupyter notebook on mary (https://mary.ldeo.columbia.edu:8000). Login as guest and then ask Haibo for the password if you have forgotten it. Those working with Haibo directly will have their own accounts on mary and june.
+- We continue to develop more catalog/data access methods - `ingrid` and `python` are both supported and the hyrax `opendap` server allows us to pull the netcdf files into `matlab`, etc.  
+- The mary and june homepages give many hints on how to access the data. Send a quick email to Haibo or me if you need the URL of their homepages.
+
