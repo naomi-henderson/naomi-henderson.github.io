@@ -5,5 +5,5 @@ website using Markdown and git.
 
 This is a minimal tutorial to get started.
 
-View the thing [here](https://naomi-henderson.github.io/simple_site).
+View the thing [here](https://naomi-henderson.github.io/).
 

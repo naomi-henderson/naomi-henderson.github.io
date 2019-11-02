@@ -116,7 +116,7 @@ have to deal with.
 
     <!-- start of Karl's footer; modify this part -->
         <a href="https://creativecommons.org/publicdomain/zero/1.0/">  ...
-        <a href="https://kbroman.org">Karl Broman</a>
+        <a href="https://naomi-henderson.github.io">Naomi Henderson</a>
     <!-- end of Karl's footer; modify this part -->
 
 ### Edit or remove the Markdown files
