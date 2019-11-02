@@ -5,7 +5,11 @@ tagline: useful tidbits
 description: a way to share my current projects
 ---
 
+**Coming Soon:** Longer work sessions about the new methods developed at the recent CMIP6 Hackathon
+
 ### *2019.11.04* -  Announcing a Quick Intro to the Pangeo CMIP6 Google Cloud Repository. [More info](https://naomi-henderson.github.io/pages/sessions.html)
+
+
 
 ### *2019.11.01* -  Pangeo CMIP6 Google Cloud Repository 
 #####`zarr` format
