@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Naomi Henderson - LDEO
+title: Blog
 tagline: useful tidbits
 description: a way to share my current projects
 ---
