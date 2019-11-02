@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: Naomi's Blog 
 tagline: useful tidbits
 description: a way to share my current projects
 ---
