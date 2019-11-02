@@ -5,7 +5,7 @@ tagline: current projects
 description: a way to share my current projects
 ---
 
-## Pangeo CMIP6 Google Cloud Repository/Catalog
+### Pangeo CMIP6 Google Cloud Repository
 
 - Go to the [Pangeo Jupyter Hub](https://ocean.pangeo.io) and log in with GLOBUS (Easiest is to use Insitution =  Columbia University)
 ![Globus](assets/Globus.png)
