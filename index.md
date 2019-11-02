@@ -5,14 +5,7 @@ tagline: useful tidbits
 description: a way to share my current projects
 ---
 
-### *2019.11.13* -  Quick Preview of CMIP6 GCS (Google Cloud Store) access methods 
-- Session 3 Wednesday, November 13, 1:30-2:00 PM (location: Ocean 105 or 104)
-
-### *2019.11.07* -  Quick Preview of CMIP6 GCS (Google Cloud Store) access methods 
-- Session 2 Thursday, November 7, 10-10:30 AM (location: Ocean 105 or 104)
-
-### *2019.11.06* -  Quick Preview of CMIP6 GCS (Google Cloud Store) access methods 
-- Session 1 Wednesday, November 6, 10-10:30 AM (location: Ocean 105 or 104)
+### *2019.11.04* -  Announcing a Quick Intro to the Pangeo CMIP6 Google Cloud Repository. [More info](https://naomi-henderson.github.io/pages/sessions.html)
 
 ### *2019.11.01* -  Pangeo CMIP6 Google Cloud Repository (`zarr` format)
 
