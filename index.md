@@ -25,11 +25,6 @@ wget http://haden.ldeo.columbia.edu/notebooks/tutorial-noIntake.ipynb
 
 - Start working through either tutorial.
 
-- There is also a useful notebook for viewing the Catalog and related CMIP6 material.
-``` 
-wget http://haden.ldeo.columbia.edu/notebooks/ViewCatalog.ipynb
-```
-
 - When you are finished, go to >File >Hub Control Panel >Stop My Server >Logout (upper righthand corner)
 
 ### *2019.10.18* - Hackathon Pages
