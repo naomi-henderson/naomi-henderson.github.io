@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Naomi Henderson
-tagline: current projects
+tagline: useful tidbits
 description: a way to share my current projects
 ---
 
-### Pangeo CMIP6 Google Cloud Repository
+### *2019.11.01*  Pangeo CMIP6 Google Cloud Repository
 
 - Go to the [Pangeo Jupyter Hub](https://ocean.pangeo.io) and "Sign in with GLOBUS"
 
@@ -25,7 +25,7 @@ wget http://haden.ldeo.columbia.edu/notebooks/tutorial-noIntake.ipynb
 
 - Start working through either tutorial.
 
-- There is also a CatalogViewer notebook
+- There is also a useful notebook for viewing the Catalog and related CMIP6 material.
 ``` 
 wget http://haden.ldeo.columbia.edu/notebooks/ViewCatalog.ipynb
 ```
