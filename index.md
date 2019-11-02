@@ -5,7 +5,7 @@ tagline: useful tidbits
 description: a way to share my current projects
 ---
 
-### *2019.11.01*  Pangeo CMIP6 Google Cloud Repository
+### *2019.11.01* -  Pangeo CMIP6 Google Cloud Repository
 
 - Go to the [Pangeo Jupyter Hub](https://ocean.pangeo.io) and "Sign in with GLOBUS"
 
@@ -31,3 +31,10 @@ wget http://haden.ldeo.columbia.edu/notebooks/ViewCatalog.ipynb
 ```
 
 - When you are finished, go to >File >Hub Control Panel >Stop My Server >Logout (upper righthand corner)
+
+### *2019.10.18* - Hackathon Pages
+
+ - [Hackathon Projects](https://discourse.pangeo.io/c/cmip6hack/cmip6hack-projects)
+ - [Pangeo Gitter](https://gitter.im/pangeo-data/data)
+ - [Hackathon Agenda](https://cmip6hack.github.io/#/schedule)
+ - [NCAR CMIP6 Hackathon](https://cmip6hack.github.io/#/)
