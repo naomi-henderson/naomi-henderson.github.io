@@ -21,7 +21,7 @@ description: a way to share my current projects
 ### *2019.11.01* -  Pangeo CMIP6 Google Cloud Repository (zarr)
 
 #### Many thanks to Ryan Abernathey and the Pangeo Group for making this possible! 
-- The data collection is growing rapidly - thanks to Richard Seager for providing the local machinery
+- The data collection is growing rapidly - and thanks to Richard Seager for providing the local resources!
 - [Here](pages/tutorial1.html) is a quick tutorial for getting started
 
 
