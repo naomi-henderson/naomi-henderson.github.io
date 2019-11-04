@@ -26,7 +26,7 @@ Basic page describing usage (http://mary.ldeo.columbia.edu:8080/CMIP6)
 **catalogs**
  - Non-opendap catalog:  (useful when working on mary)
     - http://mary.ldeo.columbia.edu/catalogs/mary-cmip6.csv
-    - or the `intake-esm` collection specification file: http://mary.ldeo.columbia.edu/catalogs/mary-cmip6.json
+    - `intake-esm` collection specification file: http://mary.ldeo.columbia.edu/catalogs/mary-cmip6.json
  - Opendap catalog: (useful when not working on mary) 
     - http://mary.ldeo.columbia.edu/catalogs/hyrax-cmip6.csv
-    - or the `intake-esm` collection specification file: http://mary.ldeo.columbia.edu/catalogs/hyrax-cmip6.json
+    - `intake-esm` collection specification file: http://mary.ldeo.columbia.edu/catalogs/hyrax-cmip6.json
