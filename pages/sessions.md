@@ -18,7 +18,7 @@ description: Brief meetings at Lamont to get you started with various chores
  
 **NOTES**
 
-- A quick introduction to the new Pangeo methods for working with the public CMIP5 data in Google Cloud
+- A quick introduction to the new Pangeo methods for working with the public CMIP6 data in Google Cloud
 - Bring your laptop or just come and watch
 - All are invited
 
