@@ -22,5 +22,5 @@ description: Brief meetings at Lamont to get you started with various chores
 - Bring your laptop or just come and watch
 - All are invited
 
-- If you don't have time for any of this, check out [tutorial](https://naomi-henderson.github.io/pages/tutorial1.html) - there is enough information there to get you started
+- If you don't have time for any of this, check out [tutorial](https://naomi-henderson.github.io/pages/tutorial1.html) - there is enough information there to get you up-to-speed for Session 2, in which we will start exploring the Hackathon notebooks.
 
