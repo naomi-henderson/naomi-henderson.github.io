@@ -35,11 +35,16 @@ Basic page describing usage (http://mary.ldeo.columbia.edu:8080/CMIP6)
 **notes**
 - if hyrax stops:
 ```
+# check to see if besd is running
+ps -ef | grep besd
+# if not ...
 /etc/init.d/besd start
+# then restart tomcat apache
 systemctl restart tomcat
 ```
 - if ingrid stops:
 ```
+# repeat the following until it complains ...
 /etc/init.d/ingrid restart
 ```
 - if httpd stops:
