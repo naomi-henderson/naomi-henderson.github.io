@@ -35,7 +35,16 @@ Basic page describing usage (http://mary.ldeo.columbia.edu:8080/CMIP6)
 **notes**
 - if hyrax stops:
 ```
-systemctl restart tomcat
 /etc/init.d/besd start
+systemctl restart tomcat
 ```
+- if ingrid stops:
+```
+/etc/init.d/ingrid restart
+```
+- if httpd stops:
+```
+systemctl restart httpd
+```
+
 
