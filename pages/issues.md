@@ -8,7 +8,7 @@ title: Issues and Questions
 If you do not have a GitHub account, you will need to make one.
 
 #### How to? .. 
-- [use CMIP6 Cloud Data](https://github.com/naomi-henderson/naomi-henderson.github.io/issues/1){target="_blank"}
+- [use CMIP6 Cloud Data](https://github.com/naomi-henderson/naomi-henderson.github.io/issues/1){:target="_blank"}
 
 - [use Pangeo JupyterHub](https://github.com/naomi-henderson/naomi-henderson.github.io/issues/2 "title" target="_blank")
 
