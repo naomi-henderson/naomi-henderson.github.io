@@ -5,16 +5,22 @@ description: a way to share my current projects
 ---
 
 ### Pages:
-- [Updates and Announcements](index.html){:target="_blank"}
-- [Python/JupyterHub Work Sessions](pages/sessions.html){:target="_blank"}
-- [Tutorial 1: Intro to our CMIP6 Google Cloud catalog/compute resources ](pages/tutorial1.html){:target="_blank"}
+- [Updates and Announcements](index.html){:target="_blank"} {:target="_blank"}
+
+- [Python/JupyterHub Work Sessions](pages/sessions.html){:target="_blank"} {:target="_blank"}
+
+- [Tutorial 1: Intro to our CMIP6 Google Cloud catalog/compute resources ](pages/tutorial1.html){:target="_blank"} {:target="_blank"}
 
 --------------
 ### Useful links:
-- CMIP6 Hackathon Cloud Data [Request](https://docs.google.com/forms/d/e/1FAIpQLScFjA5IddqBs2Rc0xGbzn32NPq12TKr-b-8KGtXWyNDK5sJCg/viewform){:target="_blank"}
-- CMIP6 links on [mary](http://mary.ldeo.columbia.edu:8080/CMIP6){:target="_blank"}
-- [Pangeo Cloud Data Catalog](https://pangeo-data.github.io/pangeo-datastore){:target="_blank"}
-- [ViewCatalog Notebook](https://binder.pangeo.io/v2/gh/naomi-henderson/CMIP6-qgrid/master){:target="_blank"} in Pangeo Binder
+
+- CMIP6 Hackathon Cloud Data [Request](https://docs.google.com/forms/d/e/1FAIpQLScFjA5IddqBs2Rc0xGbzn32NPq12TKr-b-8KGtXWyNDK5sJCg/viewform){:target="_blank"}{:target="_blank"}
+
+- CMIP6 links on [mary](http://mary.ldeo.columbia.edu:8080/CMIP6){:target="_blank"} {:target="_blank"}
+
+- [Pangeo Cloud Data Catalog](https://pangeo-data.github.io/pangeo-datastore){:target="_blank"} {:target="_blank"}
+
+- [ViewCatalog Notebook](https://binder.pangeo.io/v2/gh/naomi-henderson/CMIP6-qgrid/master){:target="_blank"} {:target="_blank"} in Pangeo Binder
 
 
 --------------
