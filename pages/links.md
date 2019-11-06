@@ -14,7 +14,7 @@ description: a way to share my current projects
 - CMIP6 Hackathon Cloud Data [Request](https://docs.google.com/forms/d/e/1FAIpQLScFjA5IddqBs2Rc0xGbzn32NPq12TKr-b-8KGtXWyNDK5sJCg/viewform)
 - CMIP6 links on [mary](http://mary.ldeo.columbia.edu:8080/CMIP6)
 - [Pangeo Cloud Data Catalog](https://pangeo-data.github.io/pangeo-datastore)
-- [Binder for ViewCatalog Notebook](https://binder.pangeo.io/v2/gh/naomi-henderson/CMIP6-qgrid/master)
+- [ViewCatalog Notebook](https://binder.pangeo.io/v2/gh/naomi-henderson/CMIP6-qgrid/master) in Pangeo Binder
 
 
 --------------
