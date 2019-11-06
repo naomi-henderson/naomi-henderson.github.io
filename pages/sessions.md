@@ -4,7 +4,7 @@ title: CMIP6 Work Sessions
 description: Brief meetings at Lamont to get you started with various chores
 ---
 
-###  Quick Preview of CMIP6 GCS (Google Cloud Store) access methods
+###  Quick Preview of CMIP6 GCS (Google Cloud Storage) access methods
 
 **LDEO**, *November 2019*
 

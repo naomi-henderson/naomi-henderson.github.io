@@ -25,7 +25,7 @@ Once you click on this button, you can either log in with your Columbia UNI (thi
 - Step 3. Wait. for. it.  A JupyterHub environment should eventually show up. Congratulations! You are on Google Cloud.
 
 -------------
-- Step 4. Note that there is only one kernel - `Python 3`, but you can `conda/pip install` other packages. The tutorials do not require any other packages. Open a terminal and enter a few `unix` commands (`pwd`, `ls`, `w`, `whoami`, `lastlog`).
+- Step 4. Note that there is only one kernel - `Python 3`, but you can `conda/pip install` other packages. The tutorials do not require any other packages. Open a terminal and enter a few `unix` commands (e.g., `pwd`, `ls`, `w`, `whoami`, `lastlog`).
 
 -------------
 - Step 5. Next you can download some short tutorials in this terminal. 
@@ -42,7 +42,7 @@ wget http://haden.ldeo.columbia.edu/notebooks/tutorial-noIntake.ipynb
 
   - [Pangeo JupyterHub questions](https://github.com/naomi-henderson/naomi-henderson.github.io/issues/2){:target="_blank_"}
   - [CMIP6 Cloud Data questions](https://github.com/naomi-henderson/naomi-henderson.github.io/issues/1){:target="_blank_"}
-  - [new `Issue`](https://github.com/naomi-henderson/naomi-henderson.github.io/issues/){:target="_blank_"}
+  - [New `Issue`](https://github.com/naomi-henderson/naomi-henderson.github.io/issues/){:target="_blank_"}
 
 -------------
 - Step 8. **IMPORTANT:** When you are finished, go to >File >Hub Control Panel >Stop My Server >Logout (upper righthand corner)
