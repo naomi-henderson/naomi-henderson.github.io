@@ -6,7 +6,7 @@ description:
 
 ### Quick tutorial for using the Pangeo CMIP6 Repo directly on JupyterHub running in Google Cloud
 
-- Step 1. Go to the [Pangeo Jupyter Hub](https://ocean.pangeo.io) and "Sign in with GLOBUS"
+- Step 1. Go to the [Pangeo Jupyter Hub](https://ocean.pangeo.io){:target="_blank"} and "Sign in with GLOBUS"
 
 Once you click on this button, you can either log in with your Columbia UNI (this is easiest) but you can also sign in with your [ORCID](https://orcid.org/register), see the lower right hand side of the screen.
 
