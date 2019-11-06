@@ -9,7 +9,9 @@ description: a way to share my current projects
 ### Pages:
 - [Updates and Announcements](pages/updates.html)
 - [Python/JupyterHub Work Sessions](pages/sessions.html)
+- [Pangeo Cloud Data Catalog](https://pangeo-data.github.io/pangeo-datastore)
 - [Tutorial 1: Intro to our CMIP6 Google Cloud catalog/compute resources ](pages/tutorial1.html)
+- [Binder for ViewCatalog](https://binder.pangeo.io/v2/gh/naomi-henderson/CMIP6-qgrid/master)
 
 --------------
 ### Useful links:
