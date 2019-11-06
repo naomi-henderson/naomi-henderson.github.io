@@ -6,13 +6,15 @@ description:
 
 ### Quick tutorial for using the Pangeo CMIP6 Repo directly on JupyterHub running in Google Cloud
 
-- Step 1. Go to the [Pangeo Jupyter Hub](https://ocean.pangeo.io){:target="_blank"} and "Sign in with GLOBUS"
+- Step 1. Go to the [Pangeo Jupyter Hub](https://ocean.pangeo.io){:target="_blank_"}
+and "Sign in with GLOBUS"
 
 Once you click on this button, you can either log in with your Columbia UNI (this is easiest) but you can also sign in with your [ORCID](https://orcid.org/register), see the lower right hand side of the screen.
 
 -------------
 - Step 2. Now you will need to choose one, pick the middle one to get the Hackathon packages pre-loaded
 
+<p align="center"><img src="./assets/es-doc.png" width="500"></p>
 ![Spawner Choices](../assets/SpawnerOptions.png)
 
 -------------
