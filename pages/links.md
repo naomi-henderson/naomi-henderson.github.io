@@ -3,6 +3,7 @@ layout: page
 title: Naomi's Work Related Links
 description: a way to share my current projects
 ---
+pages: [home](../index.html) : [links](../pages/links.html) : [sessions](../pages/sessions.html) : [tutorial](../pages/tutorial1.html)
 
 --------------
 ### Pages:
