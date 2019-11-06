@@ -12,6 +12,7 @@ Once you click on this button, you can either log in with your Columbia UNI (thi
 
 -------------
 - Step 2. Now you will need to choose one, pick the middle one to get the Hackathon packages pre-loaded
+
 ![Spawner Choices](../assets/SpawnerOptions.png)
 
 -------------
