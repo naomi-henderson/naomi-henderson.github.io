@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Naomi's Updates
-tagline: [links](pages/links.html) : [sessions](pages/sessions.html) : [tutorial](pages/tutorial1.html)
+tagline: [links](pages/links.html) . [sessions](pages/sessions.html) . [tutorial](pages/tutorial1.html)
 description: a way to share my current projects
 ---
 
