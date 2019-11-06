@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Updates
+title: Random Updates
 tagline: 
 description: a way to share my current projects
 ---
@@ -13,7 +13,7 @@ pages: [home](index.html) : [links](pages/links.html) : [sessions](pages/session
 
 --------------
 ### Work Session 1: Quick Intro to the Pangeo CMIP6 Google Cloud Repository
-- Half hour meetings in Oceanography 104 or 105
+- Half hour meetings in Oceanography 104
 - I will be leading 3 sessions with identical goals - come to whichever one is convenient
 - Here are some [more details](https://naomi-henderson.github.io/pages/sessions.html)
 
