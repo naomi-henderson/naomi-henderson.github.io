@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Naomi's Work Related Info Page
+title: Naomi's Work Related Links
 tagline: useful tidbits
 description: a way to share my current projects
 ---
