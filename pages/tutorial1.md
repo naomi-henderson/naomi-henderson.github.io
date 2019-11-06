@@ -7,7 +7,7 @@ description:
 ### Quick tutorial for using the Pangeo CMIP6 Repo directly on JupyterHub running in Google Cloud
 
 #### GOALS: 
-- Log onto Google **Cloud Compute Engine** 
+- Log onto Google **Cloud Compute Engine**  
 - Start interacting with the CMIP6 Google **Cloud Storage**
 
 #### PROCEDURE:
@@ -22,22 +22,22 @@ Once you click on this button, you can either log in with your Columbia UNI (thi
 <p align="center"><img src="/assets/SpawnerOptions.png" width="500"></p>
 
 -------------
-- Step 3. Wait. for. it.  A JupyterHub environment should eventually show up.
+- Step 3. Wait. for. it.  A JupyterHub environment should eventually show up. Congratulations! You are on Google Cloud.
 
 -------------
-- Step 4. This is JupyterHub - there is only one kernel - `Python 3`, but you can `conda/pip install` other packages. The tutorials do not require any other packages.
+- Step 4. Note that there is only one kernel - `Python 3`, but you can `conda/pip install` other packages. The tutorials do not require any other packages. Open a terminal and enter a few `unix` commands (`pwd`, `ls`, `whoami`).
 
 -------------
-- Step 5. Next you can download some short tutorials, using either the notebook (put ! at the beginning of the line) or a terminal:
+- Step 5. Next you can download some short tutorials in this terminal. 
 
 ```
 wget http://haden.ldeo.columbia.edu/notebooks/tutorial-Intake.ipynb
 wget http://haden.ldeo.columbia.edu/notebooks/tutorial-noIntake.ipynb
 ```
 -------------
-- Step 5. Start working through either tutorial.
+- Step 6. Start working through either tutorial.
 
 -------------
-- Step 6. **IMPORTANT:** When you are finished, go to >File >Hub Control Panel >Stop My Server >Logout (upper righthand corner)
+- Step 7. **IMPORTANT:** When you are finished, go to >File >Hub Control Panel >Stop My Server >Logout (upper righthand corner)
 
 

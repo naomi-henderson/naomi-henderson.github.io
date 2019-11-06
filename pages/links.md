@@ -16,7 +16,7 @@ description: a way to share my current projects
 
 - CMIP6 Hackathon Cloud Data [Request](https://docs.google.com/forms/d/e/1FAIpQLScFjA5IddqBs2Rc0xGbzn32NPq12TKr-b-8KGtXWyNDK5sJCg/viewform){:target="_blank_"}
 
-- CMIP6 [Data Cleaning efforts] (https://github.com/naomi-henderson/cmip6hack-DataCleaning/blob/master/README.md){:target="_blank_"}
+- CMIP6 [Data Cleaning](https://github.com/naomi-henderson/cmip6hack-DataCleaning/blob/master/README.md){:target="_blank_"}
 
 - [Pangeo Cloud Data Catalog](https://pangeo-data.github.io/pangeo-datastore){:target="_blank_"}
 
