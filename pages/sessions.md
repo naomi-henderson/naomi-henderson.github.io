@@ -4,7 +4,6 @@ title: CMIP6 Work Sessions
 description: Brief meetings at Lamont to get you started with various chores
 ---
 [home](../index.html) : [links](../pages/links.html) : [sessions](../pages/sessions.html) : [tutorial](../pages/tutorial1.html)
-
 ------
 ###  Quick Preview of CMIP6 GCS (Google Cloud Store) access methods
 
