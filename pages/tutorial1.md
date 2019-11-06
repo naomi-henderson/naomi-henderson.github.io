@@ -3,7 +3,9 @@ layout: page
 title: Pangeo CMIP6
 description: 
 ---
+
 [home](../index.html) : [links](../pages/links.html) : [sessions](../pages/sessions.html) : [tutorial](../pages/tutorial1.html)
+
 -------------
 ### Quick tutorial for using the Pangeo CMIP6 Repo directly on JupyterHub running in Google Cloud
 

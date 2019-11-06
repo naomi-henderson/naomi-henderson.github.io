@@ -3,7 +3,9 @@ layout: page
 title: Work Related Links
 description: a way to share my current projects
 ---
+
 [home](../index.html) : [links](../pages/links.html) : [sessions](../pages/sessions.html) : [tutorial](../pages/tutorial1.html)
+
 --------------
 ### Pages:
 - [Updates and Announcements](index.html)
