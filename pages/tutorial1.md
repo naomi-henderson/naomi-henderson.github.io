@@ -10,6 +10,7 @@ description:
 - Log onto Google **Cloud Compute Engine** 
 - Start interacting with the CMIP6 Google **Cloud Storage**
 
+#### PROCEDURE:
 - Step 1. Go to the [Pangeo Jupyter Hub](https://ocean.pangeo.io){:target="_blank_"}
 and "Sign in with GLOBUS"
 
