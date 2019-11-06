@@ -14,7 +14,7 @@ Once you click on this button, you can either log in with your Columbia UNI (thi
 -------------
 - Step 2. Now you will need to choose one. For now, pick the middle one to get the Hackathon packages pre-loaded.
 
-<p align="center"><img src="./assets/SpawnerOptions.png" width="500"></p>
+<p align="center"><img src="/assets/SpawnerOptions.png" width="500"></p>
 
 -------------
 - Step 3. This is JupyterHub - there is only one kernel - `Python 3`, but you can `conda/pip install` other packages. The tutorials do not require any other packages.
