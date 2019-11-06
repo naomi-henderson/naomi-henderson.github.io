@@ -5,12 +5,11 @@ description: a way to share my current projects
 ---
 [home](../index.html) : [links](../pages/links.html) : [sessions](../pages/sessions.html) : [tutorial](../pages/tutorial1.html)
 
+--------------
 ### Pages:
 - [Updates and Announcements](index.html)
 - [Python/JupyterHub Work Sessions](pages/sessions.html)
 - [Tutorial 1: Intro to our CMIP6 Google Cloud catalog/compute resources ](pages/tutorial1.html)
-
-
 
 --------------
 ### Useful links:

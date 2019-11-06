@@ -5,6 +5,7 @@ description:
 ---
 [home](../index.html) : [links](../pages/links.html) : [sessions](../pages/sessions.html) : [tutorial](../pages/tutorial1.html)
 
+-------------
 ### Quick tutorial for using the Pangeo CMIP6 Repo directly on JupyterHub running in Google Cloud
 
 - Step 1. Go to the [Pangeo Jupyter Hub](https://ocean.pangeo.io) and "Sign in with GLOBUS"
