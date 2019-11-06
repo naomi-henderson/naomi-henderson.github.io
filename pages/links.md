@@ -9,7 +9,7 @@ description: a way to share my current projects
 
 - [Python/JupyterHub Work Sessions](/pages/sessions.html)
 
-- [Tutorial 1: Intro to our CMIP6 Google Cloud catalog/compute resources ](/pages/tutorial1.html)
+- [Tutorial 1: Intro to our CMIP6 Google Cloud catalog/compute resources ](/pages/tutorial1.html){:target="_blank"}
 
 --------------
 ### Useful links:
