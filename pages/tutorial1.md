@@ -35,7 +35,7 @@ wget http://haden.ldeo.columbia.edu/notebooks/tutorial-Intake.ipynb
 wget http://haden.ldeo.columbia.edu/notebooks/tutorial-noIntake.ipynb
 ```
 -------------
-- Step 6. Start working through either tutorial.
+- Step 6. Start working through tutorial-Intake.ipynb (recommended) or tutorial-noIntake.ipynb (for pythonistas who don't need/want to use the new `intake-esm glossy methods)
 
 -------------
 - Step 7. Questions, Comments. These should be public, so we can all learn from each other. 
