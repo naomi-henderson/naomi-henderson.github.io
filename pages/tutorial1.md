@@ -39,9 +39,9 @@ wget http://haden.ldeo.columbia.edu/notebooks/tutorial-noIntake.ipynb
 
 -------------
 - Step 7. Questions, Comments. These should be public, so we can all learn from each other. 
-  - [Pangeo JupyterHub questions)(https://github.com/naomi-henderson/naomi-henderson.github.io/issues/2)
-  - [CMIP6 Cloud Data questions)(https://github.com/naomi-henderson/naomi-henderson.github.io/issues/1)
-  - [new `issue`)(https://github.com/naomi-henderson/naomi-henderson.github.io/issues/)
+  - [Pangeo JupyterHub questions](https://github.com/naomi-henderson/naomi-henderson.github.io/issues/2)
+  - [CMIP6 Cloud Data questions](https://github.com/naomi-henderson/naomi-henderson.github.io/issues/1)
+  - [new `Issue`](https://github.com/naomi-henderson/naomi-henderson.github.io/issues/)
 
 -------------
 - Step 8. **IMPORTANT:** When you are finished, go to >File >Hub Control Panel >Stop My Server >Logout (upper righthand corner)
