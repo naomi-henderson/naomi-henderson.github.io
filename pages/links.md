@@ -5,11 +5,11 @@ description: a way to share my current projects
 ---
 
 ### Pages:
-- [Updates and Announcements](index.html)
+- [Updates and Announcements](/index.html)
 
-- [Python/JupyterHub Work Sessions](pages/sessions.html)
+- [Python/JupyterHub Work Sessions](/pages/sessions.html)
 
-- [Tutorial 1: Intro to our CMIP6 Google Cloud catalog/compute resources ](pages/tutorial1.html)
+- [Tutorial 1: Intro to our CMIP6 Google Cloud catalog/compute resources ](/pages/tutorial1.html)
 
 --------------
 ### Useful links:
@@ -25,5 +25,5 @@ description: a way to share my current projects
 
 --------------
 ### My notes/links
-- operational [notes](pages/mary.html) for mary
+- operational [notes](/pages/mary.html) for mary
 - various kage [old notes](http://kage.ldeo.columbia.edu/notes/) 
