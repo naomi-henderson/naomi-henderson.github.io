@@ -11,7 +11,7 @@ description:
 Once you click on this button, you can either log in with your Columbia UNI (this is easiest) but you can also sign in with your [ORCID](https://orcid.org/register), see the lower right hand side of the screen.
 
 -------------
-- Step 2. Now you will need to choose one of the sizes (doesn't really matter which)
+- Step 2. Now you will need to choose one, pick the middle one to get the Hackathon packages pre-loaded
 ![Spawner Choices](../assets/SpawnerOptions.png)
 
 -------------
