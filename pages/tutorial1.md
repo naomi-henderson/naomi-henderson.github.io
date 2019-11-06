@@ -38,11 +38,7 @@ wget http://haden.ldeo.columbia.edu/notebooks/tutorial-noIntake.ipynb
 - Step 6. Start working through tutorial-Intake.ipynb (recommended) or tutorial-noIntake.ipynb (for pythonistas who don't need/want to use the new `intake-esm glossy methods)
 
 -------------
-- Step 7. Questions, Comments. These should be public, so we can all learn from each other.  If you do not have a GitHub account, you will need to make one.
-
-  - [Pangeo JupyterHub questions](https://github.com/naomi-henderson/naomi-henderson.github.io/issues/2){:target="_blank_"}
-  - [CMIP6 Cloud Data questions](https://github.com/naomi-henderson/naomi-henderson.github.io/issues/1){:target="_blank_"}
-  - [New `Issue`](https://github.com/naomi-henderson/naomi-henderson.github.io/issues/){:target="_blank_"}
+- Step 7. [Questions, Comments[(/pages/issues.html){:target="_blank_"}. These should be public, so we can all learn from each other. 
 
 -------------
 - Step 8. **IMPORTANT:** When you are finished, go to >File >Hub Control Panel >Stop My Server >Logout (upper righthand corner)
