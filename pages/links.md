@@ -5,7 +5,7 @@ description: a way to share my current projects
 ---
 
 ### Pages:
-- [Updates and Announcements](index.html){:target="_blank"} {:target="_blank"}
+- [Updates and Announcements](index.html){:target="_blank"}{:target="_blank"}
 
 - [Python/JupyterHub Work Sessions](pages/sessions.html){:target="_blank"} {:target="_blank"}
 
