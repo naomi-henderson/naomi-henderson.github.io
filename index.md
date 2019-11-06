@@ -5,9 +5,6 @@ tagline: work related tidbits
 description: a way to share my current projects
 ---
 
-[home](../index.html) : [links](../pages/links.html) : [sessions](../pages/sessions.html) : [tutorial](../pages/tutorial1.html)
-
---------------
 ### *Coming Soon:* 
 - I am combing through the CMIP6 Hackathon notebooks and we will get together around the middle of November to discuss
 - In the meantime, come to the Quick Intro in Work Session 1 or do the easy [tutorial](pages/tutorial1.html)
