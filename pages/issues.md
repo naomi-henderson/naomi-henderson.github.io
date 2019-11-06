@@ -1,6 +1,6 @@
 ---
 layout: page
-title: issues
+title: Issues and Questions
 ---
 
 
