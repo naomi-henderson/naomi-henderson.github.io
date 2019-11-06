@@ -7,7 +7,7 @@ title: Issues and Questions
 ###  Ask your questions or check conversations here
 
 #### How to? .. 
-- [use CMIP6 Cloud Data](https://github.com/naomi-henderson/naomi-henderson.github.io/issues/1)
+- [use CMIP6 Cloud Data](https://github.com/naomi-henderson/naomi-henderson.github.io/issues/1){:target="_blank"}
 - [use Pangeo JupyterHub](https://github.com/naomi-henderson/naomi-henderson.github.io/issues/2)
 - [use OCP CMIP6 Data](https://github.com/naomi-henderson/naomi-henderson.github.io/issues/3)
 
