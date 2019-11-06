@@ -20,7 +20,7 @@ description: a way to share my current projects
 
 - [Pangeo Cloud Data Catalog](https://pangeo-data.github.io/pangeo-datastore)
 
-- [ViewCatalog Notebook](https://binder.pangeo.io/v2/gh/naomi-henderson/CMIP6-qgrid/master) in Pangeo Binder
+- [ViewCatalog Notebook](https://binder.pangeo.io/v2/gh/naomi-henderson/CMIP6-qgrid/master){:target="_blank"} in Pangeo Binder
 
 
 --------------
