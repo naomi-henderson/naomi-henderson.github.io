@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Naomi's Updates
+tagline: [links](pages/links.html) : [sessions](pages/sessions.html) : [tutorial](pages/tutorial1.html)
 description: a way to share my current projects
 ---
-[links](pages/links.html) : [sessions](pages/sessions.html) : [tutorial](pages/tutorial1.html)
 
 ### *Coming Soon:* 
 - I am combing through the CMIP6 Hackathon notebooks and we will get together around the middle of November to discuss
