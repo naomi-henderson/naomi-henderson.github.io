@@ -7,8 +7,8 @@ description:
 ### Quick tutorial for using the Pangeo CMIP6 Repo directly on JupyterHub running in Google Cloud
 
 #### GOALS: 
-*A.* Log onto Google **Cloud Compute Engine** 
-*B.* Start interacting with the CMIP6 Google **Cloud Storage**
+- Log onto Google **Cloud Compute Engine** 
+- Start interacting with the CMIP6 Google **Cloud Storage**
 
 - Step 1. Go to the [Pangeo Jupyter Hub](https://ocean.pangeo.io){:target="_blank_"}
 and "Sign in with GLOBUS"
