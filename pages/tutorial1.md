@@ -17,10 +17,13 @@ Once you click on this button, you can either log in with your Columbia UNI (thi
 <p align="center"><img src="/assets/SpawnerOptions.png" width="500"></p>
 
 -------------
-- Step 3. This is JupyterHub - there is only one kernel - `Python 3`, but you can `conda/pip install` other packages. The tutorials do not require any other packages.
+- Step 3. Wait. for. it.  A JupyterHub environment should eventually show up.
 
 -------------
-- Step 4. Next you can download some short tutorials, using either the notebook (put ! at the beginning of the line) or a terminal:
+- Step 4. This is JupyterHub - there is only one kernel - `Python 3`, but you can `conda/pip install` other packages. The tutorials do not require any other packages.
+
+-------------
+- Step 5. Next you can download some short tutorials, using either the notebook (put ! at the beginning of the line) or a terminal:
 
 ```
 wget http://haden.ldeo.columbia.edu/notebooks/tutorial-Intake.ipynb
