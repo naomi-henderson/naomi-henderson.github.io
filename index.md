@@ -18,7 +18,7 @@ description: a way to share my current projects
 
 --------------
 ### *2019.11.06* -  Ask a question on GitHub
-- Go [here](pages/issues.html)to see current questions/issues or raise a new one
+- Go [here](pages/issues.html) to see current questions/issues or raise a new one
 
 --------------
 ### *2019.11.01* -  Pangeo CMIP6 Google Cloud Repository (zarr)
