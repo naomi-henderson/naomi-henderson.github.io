@@ -25,17 +25,17 @@ Once you click on this button, you can either log in with your Columbia UNI (thi
 - Step 3. Wait. for. it.  A JupyterHub environment should eventually show up. Congratulations! You are on Google Cloud.
 
 -------------
-- Step 4. Note that there is only one kernel - `Python 3`, but you can `conda/pip install` other packages. The tutorials do not require any other packages. Open a terminal and enter a few `unix` commands (e.g., `pwd`, `ls`, `w`, `whoami`, `lastlog`).
+- Step 4.  Open a terminal and enter a few `unix` commands (e.g., `pwd`, `ls`, `w`, `whoami`, `lastlog`). 
 
 -------------
-- Step 5. Next you can download some short tutorials in this terminal. 
+- Step 5. Next you can download some short tutorial notebooks in this terminal. 
 
 ```
 wget http://haden.ldeo.columbia.edu/notebooks/tutorial-Intake.ipynb
 wget http://haden.ldeo.columbia.edu/notebooks/tutorial-noIntake.ipynb
 ```
 -------------
-- Step 6. Start working through tutorial-Intake.ipynb (recommended) or tutorial-noIntake.ipynb (for pythonistas who don't need/want to use the new `intake-esm glossy methods)
+- Step 6. The new notebooks should show up in the file browser on the left. Double click a notebook (ends in .ipynb) to open. Start working through tutorial-Intake.ipynb (recommended) or tutorial-noIntake.ipynb (for pythonistas who don't need/want to use the new `intake-esm glossy methods)
 
 -------------
 - Step 7. Ask here: [Questions, Comments](/pages/issues.html){:target="_blank_"}. These should be public, so we can all learn from each other. 
