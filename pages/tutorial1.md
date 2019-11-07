@@ -12,6 +12,9 @@ Using the **Pangeo CMIP6 Data Collection** directly on the **Pangeo JupyterHub**
 - Log onto Google **Cloud Compute Engine**  
 - Start interacting with the CMIP6 Google **Cloud Storage**
 
+#### For More Details
+- Ryan wrote a much more detailed version of this for the Hackathon. See [here](https://discourse.pangeo.io/t/using-ocean-pangeo-io-for-the-cmip6-hackathon/291)
+
 #### PROCEDURE:
 - Step 1. Go to the [Pangeo Jupyter Hub](https://ocean.pangeo.io){:target="_blank_"}
 and "Sign in with GLOBUS"
