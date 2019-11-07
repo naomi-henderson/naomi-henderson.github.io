@@ -1,6 +1,7 @@
 ---
 layout: page
-title: In the Cloud. Pangeo Hub for Pangeo Data
+title: In the Cloud
+tagline: Pangeo Hub for Pangeo Data
 description: 
 ---
 
