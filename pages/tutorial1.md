@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Pangeo CMIP6
+title: In the Cloud: Pangeo Hub for Pangeo Data
 description: 
 ---
 
-### Quick tutorial for using the Pangeo CMIP6 Repo directly on JupyterHub running in Google Cloud
+### Quick tutorial for using the Pangeo CMIP6 Data Collection directly on the Pangeo JupyterHub running in Google Cloud
 
 #### GOALS: 
 - Log onto Google **Cloud Compute Engine**  
