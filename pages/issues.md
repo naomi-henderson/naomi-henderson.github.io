@@ -15,4 +15,4 @@ If you do not have a GitHub account, you will need to make one.
 - [use OCP CMIP6 Data?](https://github.com/naomi-henderson/naomi-henderson.github.io/issues/3){:target="_blank"}
 
 #### Ask your own question 
-- <img src="/assets/NewIssue.png" width="80"> Make a new GitHub [Issue](https://github.com/naomi-henderson/naomi-henderson.github.io/issues/){:target="_blank"} 
+- Make a [<img src="/assets/NewIssue.png" width="100">](https://github.com/naomi-henderson/naomi-henderson.github.io/issues/){:target="_blank"} on GitHub.
