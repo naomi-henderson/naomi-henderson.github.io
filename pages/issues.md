@@ -4,7 +4,7 @@ title: Issues and Questions
 ---
 
 
-###  Ask your questions and find answers here
+###  Ask your questions and find answers
 If you do not have a GitHub account, you will need to make one.
 
 #### How to? .. 
