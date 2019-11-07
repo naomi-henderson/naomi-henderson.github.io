@@ -5,8 +5,8 @@ tagline: Pangeo JupyterHub for Pangeo Data
 description: 
 ---
 
-### Quick tutorial 
-Using the __**Pangeo CMIP6 Data Collection**__ directly on the **Pangeo JupyterHub** both running in **Google Cloud**
+### Quick Tutorial 
+Using the **Pangeo CMIP6 Data Collection** directly on the **Pangeo JupyterHub** both running in **Google Cloud**
 
 #### GOALS: 
 - Log onto Google **Cloud Compute Engine**  
