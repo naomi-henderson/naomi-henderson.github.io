@@ -28,7 +28,7 @@ Once you click on this button, you can either log in with your Columbia UNI (thi
 - Step 4.  Open a terminal and enter a few `unix` commands (e.g., `pwd`, `ls`, `w`, `whoami`, `lastlog`). 
 
 -------------
-- Step 5. Next you can download some short tutorial notebooks in this terminal. 
+- Step 5. Next, you can download some short tutorial notebooks using this terminal. Copy and paste the following in the terminal.
 
 ```
 wget http://haden.ldeo.columbia.edu/notebooks/tutorial-Intake.ipynb
