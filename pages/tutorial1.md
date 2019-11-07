@@ -1,7 +1,7 @@
 ---
 layout: page
-title: In the Cloud
-tagline: Pangeo Hub for Pangeo Data
+title: All in the Cloud
+tagline: Pangeo JupyterHub for Pangeo Data
 description: 
 ---
 
