@@ -19,6 +19,8 @@ description: a way to share my current projects
 
 - CMIP6 [Data Cleaning](https://github.com/naomi-henderson/cmip6hack-DataCleaning/blob/master/README.md){:target="_blank_"}
 
+- [Pangeo Cloud Compute Hub](https://ocean.pangeo.io){:target="_blank_"}
+
 - [Pangeo Cloud Data Catalog](https://pangeo-data.github.io/pangeo-datastore){:target="_blank_"}
 
 - [ViewCatalog Notebook](https://binder.pangeo.io/v2/gh/naomi-henderson/CMIP6-qgrid/master){:target="_blank_"} in Pangeo Binder
