@@ -15,6 +15,8 @@ description: a way to share my current projects
 --------------
 ### Useful links:
 
+- [Using ocean.pangeo.io for the CMIP6 Hackathon](https://discourse.pangeo.io/t/using-ocean-pangeo-io-for-the-cmip6-hackathon/291){:target="_blank_"}
+
 - [Pangeo Cloud Compute Hub](https://ocean.pangeo.io){:target="_blank_"}
 
 - [Pangeo Cloud Data Catalog](https://pangeo-data.github.io/pangeo-datastore){:target="_blank_"}
