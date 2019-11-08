@@ -17,9 +17,16 @@ Using the **Pangeo CMIP6 Data Collection** directly on the **Pangeo JupyterHub**
 
 #### PROCEDURE:
 - Step 1. Go to the [Pangeo Jupyter Hub](https://ocean.pangeo.io){:target="_blank_"}
-and "Sign in with GLOBUS"
+and "Sign in with GLOBUS".
 
-Once you click on this button, you can either log in with your Columbia UNI (this is easiest) but you can also sign in with your [ORCID](https://orcid.org/register), see the lower right hand side of the screen.
+```
+Logging In
+Anyone is technically able to access ocean.pangeo.io. You just need a few free accounts. Your login is based on your ORCID:
+
+We use your ORCID as username to identify you on the cluster. You will also need a Globus account that has been linked to your ORCID account. Globus is the actual identity provider for the cluster.
+```
+
+So, for your first time, you should click “Sign in with ORCID iD” (lower right hand side of screen) and finish going through the subsequent steps to link your ORCID and Globus accounts. Eventually, you will be redirected back to ocean.pangeo.io and you will be ready for the next step.
 
 -------------
 - Step 2. You need to choose one. For now, pick the middle one to get the Hackathon packages pre-loaded.
