@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Naomi's Random Updates
-tagline: ... work not toil
+tagline: ... "work not toil"
 description: a way to share my current projects
 ---
 
