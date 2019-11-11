@@ -27,6 +27,8 @@ description: a way to share my current projects
 
 - How we do our CMIP6 [Data Cleaning](https://github.com/naomi-henderson/cmip6hack-DataCleaning/blob/master/README.md){:target="_blank_"}
 
+- Current ESGF CMIP6 [Current Data Holdings](https://pcmdi.llnl.gov/CMIP6/ArchiveStatistics/esgf_data_holdings/){:target="_blank_"}
+
 - CMIP6 links on [mary](http://mary.ldeo.columbia.edu:8080/CMIP6){:target="_blank_"}
 
 --------------

@@ -9,6 +9,8 @@ description: a way to share my current projects
 - I am combing through the CMIP6 Hackathon notebooks and we will get together around the middle of November to discuss
 - In the meantime, come to the Quick Intro in Work Session 1 or do the easy [tutorial](pages/tutorial1.html)
 
+### *2019.11.09* - CMIP6 cloud collection
+- If you are curious, I explain my uploading/cleaning methods in this new github repository, [cmip6collect](https://github.com/naomi-henderson/cmip6collect)
 
 --------------
 ### Work Session 1: Quick Intro to the Pangeo CMIP6 Google Cloud Repository
