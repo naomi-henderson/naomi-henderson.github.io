@@ -24,6 +24,7 @@ git clone <link>
 <p align="left"><img src="/assets/hdrake.png" width="500"></p>
 
 - [multigen](https://github.com/hdrake/cmip6hack-multigen/blob/master/notebooks/1_multigenerational_skill_seasonal.ipynb)
+<p align="left"><img src="/assets/multigen.png" width="200"></p>
 
 - [ocean-bgc](https://github.com/mfreilich1/cmip6hack-ocean-bgc/blob/master/notebooks/jml_dissic_prereg_allmodels.ipynb)
 <p align="left"><img src="/assets/dissic.png" width="500"></p>
