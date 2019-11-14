@@ -10,6 +10,11 @@ description: a way to share my current projects
 - In the meantime, come to the Quick Intro in Work Session 1 or do the easy [tutorial](pages/tutorial1.html)
 
 --------------
+### Work Session 2: Gleaning useful methods from the Hackathon Notebooks
+- I will lead two discussion sections, one on Tuesday, Nov. 19 and another on Wednesday, Nov. 20. Both will be in Ocean 104 at 10am.
+- Here are [more details](https://naomi-henderson.github.io/pages/sessions.html)
+
+--------------
 ### *2019.11.09* - CMIP6 cloud collection
 - If you are curious, I explain my uploading/cleaning methods in this new github repository, [cmip6collect](https://github.com/naomi-henderson/cmip6collect)
 

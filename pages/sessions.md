@@ -4,9 +4,21 @@ title: CMIP6 Work Sessions
 description: Brief meetings at Lamont to get you started with various chores
 ---
 
-###  Tutorial 1. Quick Preview of CMIP6 GCS (Google Cloud Storage) access methods
-
 **LDEO**, *November 2019*
+
+###  Tutorial 2. Hackathon Notebooks - methods, hints and tricks
+
+	 **Session 2a:** Tuesday, November 19, 10 AM (location: Ocean 104)
+
+	 **Session 2b:** Wednesday, November 20, 10 AM (location: Ocean 104)
+
+**NOTES**
+
+- Demonstration only, no laptop required 
+- We will discuss the best methods for exploring the notebooks on your own
+- All invited 
+
+###  Tutorial 1. Quick Preview of CMIP6 GCS (Google Cloud Storage) access methods
 
 	 **Session 1a:** Wednesday, November 6, 10-10:30 AM (location: Ocean 104)
 
