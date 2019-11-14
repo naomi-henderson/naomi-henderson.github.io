@@ -33,11 +33,12 @@ git clone <link>
 <p align="left"><img src="/assets/MACA.png" width="500"></p>
 
 - [ToE](https://github.com/darothen/cmip6hack-toe/blob/master/notebooks/02_estimate_ToE.ipynb)
-<p align="left"><img src="/assets/ToE.png" width="500"></p>
- 
+<p align="left"><img src="/assets/ToE.png" width="300"></p>
 
 - [xlayers](https://github.com/cspencerjones/xlayers/blob/master/notebooks/Test_Packaging.ipynb)
 This is Spencer Jones' xlayers: illustrates how to use `f2py` and `ufunc` to calculate density(theta,salt) and use xhistogram to convert ocean model output from depth to density coordinates
 
 - [Equilibrium Climate Sensitivity](https://github.com/hdrake/cmip6-temperature-demo/blob/master/notebooks/00_calculate_simulated_global_warming.ipynb)
 
+- [enso_mjo](https://github.com/judithberner/enso_mjo_cmip6/blob/master/notebooks/enso_mjo_cmip6_judith.ipynb)
+<p align="left"><img src="/assets/enso_mjo.png" width="500"></p>
