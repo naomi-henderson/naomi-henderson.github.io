@@ -16,9 +16,9 @@ Introduce some new Pangeo methods using CMIP6 data for examples.
 ```
 git clone <link>
 ```
-  - Open the notebook in the file browser (in the collapsible sidebar)
+  - Open the notebook in the file browser (left sidebar)
 
-- Notebooks:
+#### NOTEBOOKS:
    - Henri Drake's beginners notebooks: [simulated global warming](https://github.com/hdrake/cmip6-temperature-demo/blob/master/notebooks/00_calculate_simulated_global_warming.ipynb)
 <p align="left"><img src="/assets/hdrake.png" width="500"></p>
 
