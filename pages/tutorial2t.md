@@ -13,7 +13,11 @@ Introduce some new Pangeo methods using CMIP6 data for examples.
 - These notebooks are in GitHub repositories. 
   - Navigate to repository's homepage, click on <img src="/assets/clone.png" width="60">
   - Copy the link and clone the repository to a folder in JupyterHub 
-    ```git clone <link>)```
+
+```
+git clone <link>)
+```
+
   - Open the notebook in the file browser (in the collapsible sidebar)
 
 - Notebooks:
