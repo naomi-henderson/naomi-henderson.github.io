@@ -11,7 +11,7 @@ Introduce some new Pangeo methods using CMIP6 data for examples.
 - Reminder: Questions and Answers using GitHub [Q&A](/pages/issues.html){:target="_blank_"}
   
 - These notebooks are in GitHub repositories. 
-  - Navigate to repository's homepage, click on <img src="/assets/hdrake.png" width="500">
+  - Navigate to repository's homepage, click on <img src="/assets/clone.png" width="80">
   - Copy the link and clone the repository to a folder in JupyterHub 
 ```
 git clone <link>
