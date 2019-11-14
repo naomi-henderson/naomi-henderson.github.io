@@ -32,8 +32,8 @@ git clone <link>
 <p align="left"><img src="/assets/MACA.png" width="500"></p>
  
 
-- Spencer Jones' xlayers: f2py, ufunc [Test_Packaging.ipynb](https://github.com/cspencerjones/xlayers/blob/master/notebooks/Test_Packaging.ipynb)
-calculates density(theta,salt) and then uses xhistogram to convert ocean model output from depth to density coordinates
+- [xlayers](https://github.com/cspencerjones/xlayers/blob/master/notebooks/Test_Packaging.ipynb)
+This is Spencer Jones' xlayers: illustrates how to use `f2py` and `ufunc` to calculate density(theta,salt) and use xhistogram to convert ocean model output from depth to density coordinates
 
-- Henri's EOC notebooks: CMIP6 estimates of [Equilibrium Climate Sensitivity](https://github.com/hdrake/cmip6-temperature-demo/blob/master/notebooks/00_calculate_simulated_global_warming.ipynb)
+- [Equilibrium Climate Sensitivity](https://github.com/hdrake/cmip6-temperature-demo/blob/master/notebooks/00_calculate_simulated_global_warming.ipynb)
 
