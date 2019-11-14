@@ -16,7 +16,7 @@ description: Brief meetings at Lamont to get you started with various chores
 
 - Demonstration only, no laptop required 
 - We will discuss the best methods for exploring the notebooks on your own
-- All invited 
+- All are invited
 
 ###  Tutorial 1. Quick Preview of CMIP6 GCS (Google Cloud Storage) access methods
 
