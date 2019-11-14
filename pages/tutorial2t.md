@@ -1,11 +1,11 @@
-j--
+---
 layout: page
 title: Pangeo CMIP6
 description: 
 ---
 
 #### GOALS: 
-Introduce some new python tools using CMIP6 data for examples.
+Introduce some new Pangeo methods using CMIP6 data for examples.
 
 #### PROCEDURE:
 - Reminder: Questions and Answers using GitHub [Q&A](/pages/issues.html){:target="_blank_"}
