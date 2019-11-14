@@ -11,14 +11,18 @@ Introduce some new Pangeo methods using CMIP6 data for examples.
 - Reminder: Questions and Answers using GitHub [Q&A](/pages/issues.html){:target="_blank_"}
   
 - These notebooks are in GitHub repositories. 
-  - Clone the repository to a folder in JupyterHub 
-    ```git clone https://github.com/...)```
+  - Navigate to repository's homepage, click on <img src="/assets/clone.png" width="60">
+  - Copy the link and clone the repository to a folder in JupyterHub 
+    ```git clone <link>)```
   - Open the notebook in the file browser (in the collapsible sidebar)
 
 - Notebooks:
    - Henri Drake's beginners notebooks: [simulated global warming](https://github.com/hdrake/cmip6-temperature-demo/blob/master/notebooks/00_calculate_simulated_global_warming.ipynb)
 <p align="left"><img src="/assets/hdrake.png" width="500"></p>
-   - Henri Drake's EOC notebooks: CMIP6 estimates of [Equilibrium Climate Sensativity](https://github.com/hdrake/cmip6-temperature-demo/blob/master/notebooks/00_calculate_simulated_global_warming.ipynb)
+
+   - Henri's EOC notebooks: CMIP6 estimates of [Equilibrium Climate Sensitivity](https://github.com/hdrake/cmip6-temperature-demo/blob/master/notebooks/00_calculate_simulated_global_warming.ipynb)
+
+   - Henri's multigenerational demo [](https://github.com/hdrake/cmip6hack-multigen/blob/master/notebooks/1_multigenerational_skill_seasonal.ipynb)
 
    - Spencer Jones' xlayers: f2py, ufunc [Test_Packaging.ipynb](https://github.com/cspencerjones/xlayers/blob/master/notebooks/Test_Packaging.ipynb)
 calculates density(theta,salt) and then uses xhistogram to convert ocean model output from depth to density coordinates
