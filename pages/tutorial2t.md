@@ -38,7 +38,5 @@ git clone <link>
 - [xlayers](https://github.com/cspencerjones/xlayers/blob/master/notebooks/Test_Packaging.ipynb)
 This is Spencer Jones' xlayers: illustrates how to use `f2py` and `ufunc` to calculate density(theta,salt) and use xhistogram to convert ocean model output from depth to density coordinates
 
-- [Equilibrium Climate Sensitivity](https://github.com/hdrake/cmip6-temperature-demo/blob/master/notebooks/01_calculate_ECS_Gregory_method.ipynb)
-
 - [enso_mjo](https://github.com/judithberner/enso_mjo_cmip6/blob/master/notebooks/enso_mjo_cmip6_judith.ipynb)
 <p align="left"><img src="/assets/enso_mjo.png" width="300"></p>
