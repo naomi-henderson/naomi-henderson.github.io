@@ -7,7 +7,7 @@ description: a way to share my current projects
 
 --------------
 ### Work Session 2: Gleaning useful methods from the Hackathon Notebooks
-- I will lead two discussion sections, one on Tuesday, Nov. 19 and another on Wednesday, Nov. 20. Both will be in Ocean 104 at 10am.
+- I will lead two discussion sections, one on Tuesday, Nov. 19 and another on Wednesday, Nov. 20. Both will be in Ocean 104 at 10am. 
 - Here are [more details](https://naomi-henderson.github.io/pages/sessions.html)
 
 --------------
