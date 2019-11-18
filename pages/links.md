@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Work Related Links
-description: a way to share my current projects
 ---
 
 ### Pages:
