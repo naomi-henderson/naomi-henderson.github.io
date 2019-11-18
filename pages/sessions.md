@@ -15,7 +15,7 @@ description: Brief meetings at Lamont to get you started with various chores
 
 **NOTES**
 
-- Mostly a demonstration only, no laptop required 
+- Mostly a demonstration, no laptop required 
 - We will discuss various useful methods for exploring the notebooks on your own
 - All are invited
 
