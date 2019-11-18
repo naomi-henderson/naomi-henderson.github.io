@@ -15,9 +15,11 @@ description: Brief meetings at Lamont to get you started with various chores
 
 **NOTES**
 
-- Demonstration only, no laptop required 
-- We will discuss the best methods for exploring the notebooks on your own
+- Mostly a demonstration only, no laptop required 
+- We will discuss various useful methods for exploring the notebooks on your own
 - All are invited
+
+- If you don't have time to come, check out [tutorial 2](https://naomi-henderson.github.io/pages/tutorial2.html) with links to some interesting hackathon notebooks
 
 ###  Tutorial 1. Quick Preview of CMIP6 GCS (Google Cloud Storage) access methods
 
@@ -34,5 +36,5 @@ description: Brief meetings at Lamont to get you started with various chores
 - Bring your laptop or just come and watch
 - All are invited
 
-- If you don't have time for any of this, check out [tutorial](https://naomi-henderson.github.io/pages/tutorial1.html) - there is enough information there to get you up-to-speed for Session 2, in which we will start exploring the Hackathon notebooks.
+- If you don't have time for any of this, check out [tutorial 1](https://naomi-henderson.github.io/pages/tutorial1.html) - there is enough information there to get you up-to-speed for Session 2, in which we will start exploring the Hackathon notebooks.
 
