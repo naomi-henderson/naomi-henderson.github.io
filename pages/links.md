@@ -29,7 +29,7 @@ description: a way to share my current projects
    - [Current Data Holdings](https://pcmdi.llnl.gov/CMIP6/ArchiveStatistics/esgf_data_holdings/){:target="_blank_"}
 
 - The OCP CMIP6 Servers
-   - [monthly](http://mary.ldeo.columbia.edu:8080/CMIP6){:target="_blank_"}
+   - [Monthly on mary](http://mary.ldeo.columbia.edu:8080/CMIP6){:target="_blank_"}
 
 --------------
 ### My notes/links
