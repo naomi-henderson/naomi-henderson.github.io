@@ -15,21 +15,21 @@ description: a way to share my current projects
 --------------
 ### Useful links:
 
-- [Using ocean.pangeo.io for the CMIP6 Hackathon](https://discourse.pangeo.io/t/using-ocean-pangeo-io-for-the-cmip6-hackathon/291){:target="_blank_"}
 
-- [Pangeo Cloud Compute Hub](https://ocean.pangeo.io){:target="_blank_"}
+- Pangeo Cloud [Compute Hub](https://ocean.pangeo.io){:target="_blank_"}
+   - Ryan's instructions for [Using ocean.pangeo.io](https://discourse.pangeo.io/t/using-ocean-pangeo-io-for-the-cmip6-hackathon/291){:target="_blank_"}
 
-- [Pangeo Cloud Data Catalog](https://pangeo-data.github.io/pangeo-datastore){:target="_blank_"}
+- Pangeo Cloud CMIP6 Data Catalog
+   - [Javascript](https://pangeo-data.github.io/pangeo-datastore/cmip6_pangeo.html){:target="_blank_"}
+   - [Binder using qgrid](https://binder.pangeo.io/v2/gh/naomi-henderson/CMIP6-qgrid/master){:target="_blank_"}
+   - [Request new data](https://docs.google.com/forms/d/e/1FAIpQLScFjA5IddqBs2Rc0xGbzn32NPq12TKr-b-8KGtXWyNDK5sJCg/viewform){:target="_blank_"}
 
-- [ViewCatalog Notebook](https://binder.pangeo.io/v2/gh/naomi-henderson/CMIP6-qgrid/master){:target="_blank_"} in Pangeo Binder
+- The ESGF CMIP6 Data
+   - [Search](https://esgf-node.llnl.gov/search/cmip6/){:target="_blank_"}
+   - [Current Data Holdings](https://pcmdi.llnl.gov/CMIP6/ArchiveStatistics/esgf_data_holdings/){:target="_blank_"}
 
-- Make a new CMIP6 Hackathon Cloud Data [Request](https://docs.google.com/forms/d/e/1FAIpQLScFjA5IddqBs2Rc0xGbzn32NPq12TKr-b-8KGtXWyNDK5sJCg/viewform){:target="_blank_"}
-
-- How we do our CMIP6 [Data Cleaning](https://github.com/naomi-henderson/cmip6hack-DataCleaning/blob/master/README.md){:target="_blank_"}
-
-- Current ESGF CMIP6 [Current Data Holdings](https://pcmdi.llnl.gov/CMIP6/ArchiveStatistics/esgf_data_holdings/){:target="_blank_"}
-
-- CMIP6 links on [mary](http://mary.ldeo.columbia.edu:8080/CMIP6){:target="_blank_"}
+- The OCP CMIP6 Servers
+   - [monthly](http://mary.ldeo.columbia.edu:8080/CMIP6){:target="_blank_"}
 
 --------------
 ### My notes/links
