@@ -8,9 +8,10 @@ description: Brief meetings at Lamont to get you started with various chores
 
 ###  Tutorial 2. Hackathon Notebooks - methods, hints and tricks
 
-	 **Session 2a:** Tuesday, November 19, 10 AM (location: Ocean 104)
+	 **Session 2a:** Wednesday, November 20, 10 AM (location: Ocean 104)
 
-	 **Session 2b:** Wednesday, November 20, 10 AM (location: Ocean 104)
+	 **Session 2b:** Thursday, November 21, 10 AM (location: Ocean 104)
+
 
 **NOTES**
 
