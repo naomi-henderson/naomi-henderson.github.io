@@ -42,7 +42,6 @@ This is Spencer Jones' xlayers: illustrates how to use `f2py` and `ufunc` to cal
 
 #### THE HACKATHON PROJECTS:
 - [density_notebooks](https://github.com/cspencerjones/cmip6_density_notebooks)
-- [bradyrx](https://github.com/bradyrx/CMIP6_hackathon)
 - [OceanAtlas](https://github.com/sridge/CMIP6_OceanAtlas)
 - [preprocessing](https://github.com/jbusecke/cmip6_preprocessing)
 - [downscaling](https://github.com/EricKeenan/cmip6-downscalling)
