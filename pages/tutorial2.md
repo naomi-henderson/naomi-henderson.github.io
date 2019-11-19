@@ -18,7 +18,7 @@ git clone <link>
 ```
   - Open the notebook in the file browser (left sidebar)
 
-#### NOTEBOOKS:
+#### A FEW NOTEBOOKS:
 - [cmip6-temperature-demo](https://github.com/hdrake/cmip6-temperature-demo/blob/master/notebooks/00_calculate_simulated_global_warming.ipynb)
 <p align="left"><img src="/assets/hdrake.png" width="400"></p>
 
@@ -40,7 +40,7 @@ This is Spencer Jones' xlayers: illustrates how to use `f2py` and `ufunc` to cal
 - [enso_mjo](https://github.com/judithberner/enso_mjo_cmip6/blob/master/notebooks/enso_mjo_cmip6_judith.ipynb)
 <p align="left"><img src="/assets/enso_mjo.png" width="300"></p>
 
-#### Projects:
+#### THE HACKATHON PROJECTS:
 - [density_notebooks](https://github.com/cspencerjones/cmip6_density_notebooks)
 - [bradyrx](https://github.com/bradyrx/CMIP6_hackathon)
 - [OceanAtlas](https://github.com/sridge/CMIP6_OceanAtlas)
