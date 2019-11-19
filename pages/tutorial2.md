@@ -40,8 +40,7 @@ This is Spencer Jones' xlayers: illustrates how to use `f2py` and `ufunc` to cal
 - [enso_mjo](https://github.com/judithberner/enso_mjo_cmip6/blob/master/notebooks/enso_mjo_cmip6_judith.ipynb)
 <p align="left"><img src="/assets/enso_mjo.png" width="300"></p>
 
-#### NOTEBOOKS:
-The hackathon GitHub pages
+#### Projects:
 - [density_notebooks](https://github.com/cspencerjones/cmip6_density_notebooks)
 - [bradyrx](https://github.com/bradyrx/CMIP6_hackathon)
 - [OceanAtlas](https://github.com/sridge/CMIP6_OceanAtlas)
