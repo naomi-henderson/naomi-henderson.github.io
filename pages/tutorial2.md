@@ -31,7 +31,7 @@ git clone <link>
 - [downscaling](https://github.com/EricKeenan/cmip6-downscalling/blob/master/notebooks/implement_MACA.ipynb)
 <p align="left"><img src="/assets/MACA.png" width="500"></p>
 
-- [ToE (Time of Emergence)](https://github.com/darothen/cmip6hack-toe/blob/master/notebooks/02_estimate_ToE.ipynb)
+- [ToE (Time of Emergence)](https://github.com/darothen/cmip6hack-toe/blob/master/notebooks)
 <p align="left"><img src="/assets/ToE.png" width="300"></p>
 
 - [xlayers](https://github.com/cspencerjones/xlayers/blob/master/notebooks/Test_Packaging.ipynb)
