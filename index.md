@@ -7,8 +7,7 @@ description: a way to share my current projects
 
 ### *2019.12.10* - CMIP6 google cloud news
 - Google's [announcement](https://cloud.google.com/blog/products/data-analytics/new-climate-model-data-now-google-public-datasets)
-- Twitter announcement: (https://twitter.com/hashtag/CMIP6?src=hash&amp;ref_src=twsrc%5Etfw)
-
+- Request more data [here](https://docs.google.com/forms/d/e/1FAIpQLScFjA5IddqBs2Rc0xGbzn32NPq12TKr-b-8KGtXWyNDK5sJCg/viewform)
 
 --------------
 ### Work Session 2: Gleaning useful methods from the Hackathon Notebooks
