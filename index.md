@@ -7,8 +7,7 @@ description: a way to share my current projects
 
 ### *2019.12.10* - CMIP6 google cloud news
 - Google's [announcement](https://cloud.google.com/blog/products/data-analytics/new-climate-model-data-now-google-public-datasets)
-- Twitter announcement: <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">MAJOR ANNOUNCEMENT: You can now discover and access data from one of the world&#39;s leading climate model <a href="https://twitter.com/hashtag/CMIP6?src=hash&amp;ref_src=twsrc%5Etfw">#CMIP6</a> in Google Cloud through the Cloud Public Datasets Program! <a href="https://t.co/p4OxO7pRsh">https://t.co/p4OxO7pRsh</a></p>&mdash; Shane Glass (@shanecglass) <a href="https://twitter.com/shanecglass/status/1204118004193099776?ref_src=twsrc%5Etfw">December 9, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+- Twitter announcement: (https://twitter.com/hashtag/CMIP6?src=hash&amp;ref_src=twsrc%5Etfw)
 
 
 --------------
