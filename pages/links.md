@@ -22,6 +22,7 @@ title: Work Related Links
    - [Javascript Version](https://pangeo-data.github.io/pangeo-datastore/cmip6_pangeo.html){:target="_blank_"}
    - [Binder using qgrid](https://binder.pangeo.io/v2/gh/naomi-henderson/CMIP6-qgrid/master){:target="_blank_"}
    - [Data Request Form](https://docs.google.com/forms/d/e/1FAIpQLScFjA5IddqBs2Rc0xGbzn32NPq12TKr-b-8KGtXWyNDK5sJCg/viewform){:target="_blank_"}  
+   - [Data Issue Reporting Form](https://docs.google.com/forms/d/e/1FAIpQLSeISi54dqekkknPp8IrBr-uioM2TGGiW7xGpW6Q_9-9WFlWTQ/viewform){:target="_blank_"}  
 &nbsp;  
 - The ESGF CMIP6 Data  
    - [Search](https://esgf-node.llnl.gov/search/cmip6/){:target="_blank_"}
