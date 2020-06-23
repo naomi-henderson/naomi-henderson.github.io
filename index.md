@@ -4,6 +4,9 @@ title: Naomi's Random Updates
 tagline: ... "work related"
 description: a way to share my current projects
 ---
+### *2020.01.15* - Ryan Abernathey's excellent article 'CMIP6 in the Cloud Five Ways':
+- [medium.com article](https://medium.com/pangeo/cmip6-in-the-cloud-five-ways-96b177abe396)
+
 
 ### *2019.12.10* - Google Cloud's Public CMIP6 Dataset Announced!
 - Google's [announcement](https://cloud.google.com/blog/products/data-analytics/new-climate-model-data-now-google-public-datasets)
