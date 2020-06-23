@@ -9,8 +9,8 @@ description: a way to share my current projects
 - [Pangeo's GC CMIP6 catalog](https://catalog.pangeo.io/browse/master/climate/cmip6_gcs/)
 - google account needed: [Colab Example CMIP6 notebook](https://colab.research.google.com/drive/19iEVxE_9QoTeg4st7MmucHJUmO93NXHp)
 
-### *2020.01.15* - Ryan Abernathey's excellent article 'CMIP6 in the Cloud Five Ways':
-- [medium.com article](https://medium.com/pangeo/cmip6-in-the-cloud-five-ways-96b177abe396)
+### *2020.01.15* - Ryan Abernathey's excellent article:
+- [CMIP6 in the Cloud Five Ways](https://medium.com/pangeo/cmip6-in-the-cloud-five-ways-96b177abe396)
 
 
 ### *2019.12.10* - Google Cloud's Public CMIP6 Dataset Announced!
